@@ -2,7 +2,7 @@
 
 Personal agent skills.
 
-## herdr-peer-agents
+## l-herdr-peer-agents
 
 Use Herdr as a lightweight peer-agent runtime with only two supported peers:
 
@@ -14,7 +14,7 @@ The skill creates sibling Herdr panes, starts a peer with `herdr agent start`, s
 ### Install
 
 ```bash
-npx skills add liaoyinglong/skills --skill herdr-peer-agents -g
+npx skills add liaoyinglong/skills --skill l-herdr-peer-agents -g
 ```
 
 Or install it only for the current project by omitting `-g`.
